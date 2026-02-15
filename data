@@ -1,0 +1,7 @@
+credit_sales_analysis/
+│
+├── data/                # Veri setleri
+│   ├── krediler.2020.xlsx
+│   ├── krediler.2021.xlsx
+│   ├── krediler.2022.xlsx
+│   └── Şubeler.xlsx
